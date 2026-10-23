@@ -1,14 +1,14 @@
 # Ciao, sono Erica 👋
 
-**Social Media Manager & Web Developer** · Torino 🇮🇹
+**Social Media Manager & Web Developer** · Co-founder [Lyto](https://lytostudio.com) · Torino 🇮🇹
 
-🇮🇹 Curo i social di Up Collection, un negozio di abbigliamento a Torino, e per loro ho costruito
-anche il sito. Sto completando un percorso **Full Stack Developer** e con il mio socio ho fondato
-**Lyto**: social, siti web e automazioni AI per negozi e piccole imprese.
+🇮🇹 Aiuto negozi e piccole imprese a farsi trovare e a risparmiare tempo: social, siti web e AI
+usata in modo pratico. Da tre anni curo i social di Up Collection a Torino e ho completato un
+percorso **Full Stack Developer & AI Integration**.
 
-🇬🇧 I run social media for Up Collection, a clothing store in Turin, and I built its website.
-I'm completing a **Full Stack Developer** program and I co-founded **Lyto**: social media,
-websites and AI automations for small businesses.
+🇬🇧 I help shops and small businesses get found and save time: social media, websites and
+practical AI. I've run social media for Up Collection in Turin for three years and I've completed
+a **Full Stack Developer & AI Integration** program.
 
 ### 🛍️ Progetti in evidenza · Featured projects
 - **[Up Collection](https://upcollectiontorino.com)** · [codice](https://github.com/ericatorta/upcollection)
@@ -31,5 +31,5 @@ websites and AI automations for small businesses.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 📫 Contatti · Contact
-💼 Disponibile per collaborazioni · *Available for freelance work*  
+💼 Aperta a collaborazioni e ruoli in azienda · *Open to freelance work and roles*  
 🌐 [lytostudio.com](https://lytostudio.com) · [LinkedIn](https://www.linkedin.com/in/erica-torta) · Instagram [@ms.lyto](https://www.instagram.com/ms.lyto)
